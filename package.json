@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon"
+    "start": "cross-env nodemon"
   },
+  "keywords": [],
   "author": "Dmitry Tkachenko <dima-tkachenko@mail.ru>",
   "license": "ISC",
   "dependencies": {
